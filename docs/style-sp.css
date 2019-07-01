@@ -1,0 +1,7 @@
+﻿@charset "UTF-8";
+
+@media screen and (min-width: 479px) { /*ウィンドウ幅が479px以上の場合に適用*/
+    #menu-bg {
+        background-color: #ff0000; /*赤色*/
+    }
+}
