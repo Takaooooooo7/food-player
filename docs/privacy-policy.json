@@ -1,47 +1,40 @@
 {
   "title": {
-    "ja": "ƒvƒ‰ƒCƒoƒV[ƒ|ƒŠƒV[",
+    "ja": "ãƒ—ãƒ©ã‚¤ãƒã‚·ãƒ¼ãƒãƒªã‚·ãƒ¼",
     "en": "Privacy policy"
   },
   "first": {
-    "ja": "ƒ`ƒ…[ƒuƒQ[ƒ€ƒYiˆÈ‰ºCu“–Ğv‚Æ‚¢‚¢‚Ü‚·Bj‚ÍC–{ƒAƒvƒŠƒP[ƒVƒ‡ƒ“ã‚Å’ñ‹Ÿ‚·‚éƒT[ƒrƒXiˆÈ‰º,u–{ƒT[ƒrƒXv‚Æ‚¢‚¢‚Ü‚·Bj‚É‚¨‚¯‚éCƒ†[ƒU[‚ÌŒÂlî•ñ‚Ìæˆµ‚¢‚É‚Â‚¢‚ÄCˆÈ‰º‚Ì‚Æ‚¨‚èƒvƒ‰ƒCƒoƒV[ƒ|ƒŠƒV[iˆÈ‰ºCu–{ƒ|ƒŠƒV[v‚Æ‚¢‚¢‚Ü‚·Bj‚ğ’è‚ß‚Ü‚·B ",
+    "ja": "ãƒãƒ¥ãƒ¼ãƒ–ã‚²ãƒ¼ãƒ ã‚ºï¼ˆä»¥ä¸‹ï¼Œã€Œå½“ç¤¾ã€ã¨ã„ã„ã¾ã™ã€‚ï¼‰ã¯ï¼Œæœ¬ã‚¢ãƒ—ãƒªã‚±ãƒ¼ã‚·ãƒ§ãƒ³ä¸Šã§æä¾›ã™ã‚‹ã‚µãƒ¼ãƒ“ã‚¹ï¼ˆä»¥ä¸‹,ã€Œæœ¬ã‚µãƒ¼ãƒ“ã‚¹ã€ã¨ã„ã„ã¾ã™ã€‚ï¼‰ã«ãŠã‘ã‚‹ï¼Œãƒ¦ãƒ¼ã‚¶ãƒ¼ã®å€‹äººæƒ…å ±ã®å–æ‰±ã„ã«ã¤ã„ã¦ï¼Œä»¥ä¸‹ã®ã¨ãŠã‚Šãƒ—ãƒ©ã‚¤ãƒã‚·ãƒ¼ãƒãƒªã‚·ãƒ¼ï¼ˆä»¥ä¸‹ï¼Œã€Œæœ¬ãƒãƒªã‚·ãƒ¼ã€ã¨ã„ã„ã¾ã™ã€‚ï¼‰ã‚’å®šã‚ã¾ã™ã€‚ ",
     "en": "The Tubezgames (hereinafter referred to as \"the Company\") Services provided on this application (hereinafter referred to as \"the service\") The Privacy Policy (hereinafter referred to as \"This policy\") describes the handling of user's personal information."
   },
-  "basic-policy-subtitle":
-  {
-    "ja": "Šî–{•ûj",
+  "basic-policy-subtitle": {
+    "ja": "åŸºæœ¬æ–¹é‡",
     "en": "Basic policy"
   },
-  "basic-policy-text":
-  {
-    "ja": "“–Ğ‚ÍAŒÂlî•ñ‚Ìd—v«‚ğ”F¯‚µAŒÂlî•ñ‚ğ•ÛŒì‚·‚é‚±‚Æ‚ªĞ‰ï“IÓ–±‚Å‚ ‚é‚Æl‚¦AŒÂlî•ñ‚ÉŠÖ‚·‚é–@—ß‚ğ…ç‚µA“–ƒTƒCƒg‚Åæˆµ‚¤ŒÂlî•ñ‚Ìæ“¾A—˜—pAŠÇ—‚ğ“K³‚És‚¢‚Ü‚·B<br />“–ƒTƒCƒg‚ÅûW‚µ‚½î•ñ‚ÍA—˜—p–Ú“I‚Ì”ÍˆÍ“à‚Å“KØ‚Éæ‚èˆµ‚¢‚Ü‚·B",
+  "basic-policy-text": {
+    "ja": "å½“ç¤¾ã¯ã€å€‹äººæƒ…å ±ã®é‡è¦æ€§ã‚’èªè­˜ã—ã€å€‹äººæƒ…å ±ã‚’ä¿è­·ã™ã‚‹ã“ã¨ãŒç¤¾ä¼šçš„è²¬å‹™ã§ã‚ã‚‹ã¨è€ƒãˆã€å€‹äººæƒ…å ±ã«é–¢ã™ã‚‹æ³•ä»¤ã‚’éµå®ˆã—ã€å½“ã‚µã‚¤ãƒˆã§å–æ‰±ã†å€‹äººæƒ…å ±ã®å–å¾—ã€åˆ©ç”¨ã€ç®¡ç†ã‚’é©æ­£ã«è¡Œã„ã¾ã™ã€‚<br />å½“ã‚µã‚¤ãƒˆã§åé›†ã—ãŸæƒ…å ±ã¯ã€åˆ©ç”¨ç›®çš„ã®ç¯„å›²å†…ã§é©åˆ‡ã«å–ã‚Šæ‰±ã„ã¾ã™ã€‚",
     "en": "Recognizing the importance of personal information, we believe that it is a social responsibility to protect personal information,                and we comply with laws and regulations concerning personal information and properly acquire, use, and manage personal information handled by this site.The information collected on this site is handled appropriately within the scope of the purpose of use."
   },
-  "how-to-collect-personal-information":
-  {
-    "ja": "ŒÂlî•ñ‚ÌûW•û–@",
+  "how-to-collect-personal-information": {
+    "ja": "å€‹äººæƒ…å ±ã®åé›†æ–¹æ³•",
     "en": ""
   },
-  "how-to-collect-personal-information-text":
-  {
-    "ja": "“–Ğ‚ÍCƒ†[ƒU[‚ª—˜—p“o˜^‚ğ‚·‚éÛ‚É–¼C¶”NŒ“úCZŠC“d˜b”Ô†Cƒ[ƒ‹ƒAƒhƒŒƒX‚È‚Ç‚ÌŒÂlî•ñ‚ğ‚¨q‚Ë‚·‚é‚±‚Æ‚ª‚ ‚è‚Ü‚·B<br />‚Ü‚½Cƒ†[ƒU[‚Æ’ñŒgæ‚È‚Ç‚Æ‚ÌŠÔ‚Å‚È‚³‚ê‚½ƒ†[ƒU[‚ÌŒÂlî•ñ‚ğŠÜ‚Şæˆø‹L˜^‚âŒˆÏ‚ÉŠÖ‚·‚éî•ñ‚ğ,“–Ğ‚Ì’ñŒgæiî•ñ’ñ‹ŸŒ³CLåCL”zMæ‚È‚Ç‚ğŠÜ‚İ‚Ü‚·BˆÈ‰ºC¢’ñŒgæ£‚Æ‚¢‚¢‚Ü‚·Bj‚È‚Ç‚©‚çûW‚·‚é‚±‚Æ‚ª‚ ‚è‚Ü‚·B",
-    "en": ""
-  },
-
-  "purpose-of-use-of-personal-information":
-  {
-    "ja": "ŒÂlî•ñ‚Ì—˜—p–Ú“I",
-    "en": ""
-  },
-  "purpose-of-use-of-personal-information-first":
-  {
-    "ja": "“–Ğ‚ªŒÂlî•ñ‚ğûWE—˜—p‚·‚é–Ú“I‚ÍCˆÈ‰º‚Ì‚Æ‚¨‚è‚Å‚·B",
+  "how-to-collect-personal-information-text": {
+    "ja": "å½“ç¤¾ã¯ï¼Œãƒ¦ãƒ¼ã‚¶ãƒ¼ãŒåˆ©ç”¨ç™»éŒ²ã‚’ã™ã‚‹éš›ã«æ°åï¼Œç”Ÿå¹´æœˆæ—¥ï¼Œä½æ‰€ï¼Œé›»è©±ç•ªå·ï¼Œãƒ¡ãƒ¼ãƒ«ã‚¢ãƒ‰ãƒ¬ã‚¹ãªã©ã®å€‹äººæƒ…å ±ã‚’ãŠå°‹ã­ã™ã‚‹ã“ã¨ãŒã‚ã‚Šã¾ã™ã€‚<br />ã¾ãŸï¼Œãƒ¦ãƒ¼ã‚¶ãƒ¼ã¨ææºå…ˆãªã©ã¨ã®é–“ã§ãªã•ã‚ŒãŸãƒ¦ãƒ¼ã‚¶ãƒ¼ã®å€‹äººæƒ…å ±ã‚’å«ã‚€å–å¼•è¨˜éŒ²ã‚„æ±ºæ¸ˆã«é–¢ã™ã‚‹æƒ…å ±ã‚’,å½“ç¤¾ã®ææºå…ˆï¼ˆæƒ…å ±æä¾›å…ƒï¼Œåºƒå‘Šä¸»ï¼Œåºƒå‘Šé…ä¿¡å…ˆãªã©ã‚’å«ã¿ã¾ã™ã€‚ä»¥ä¸‹ï¼Œï½¢ææºå…ˆï½£ã¨ã„ã„ã¾ã™ã€‚ï¼‰ãªã©ã‹ã‚‰åé›†ã™ã‚‹ã“ã¨ãŒã‚ã‚Šã¾ã™ã€‚",
     "en": ""
   },
 
-  "purpose-of-use-of-personal-information-ads-h":
-  {
-    "ja": "L‚Ì•\¦",
+  "purpose-of-use-of-personal-information": {
+    "ja": "å€‹äººæƒ…å ±ã®åˆ©ç”¨ç›®çš„",
+    "en": ""
+  },
+  "purpose-of-use-of-personal-information-first": {
+    "ja": "å½“ç¤¾ãŒå€‹äººæƒ…å ±ã‚’åé›†ãƒ»åˆ©ç”¨ã™ã‚‹ç›®çš„ã¯ï¼Œä»¥ä¸‹ã®ã¨ãŠã‚Šã§ã™ã€‚",
+    "en": ""
+  },
+
+  "purpose-of-use-of-personal-information-ads-h": {
+    "ja": "åºƒå‘Šã®è¡¨ç¤º",
     "en": ""
   }
 }
