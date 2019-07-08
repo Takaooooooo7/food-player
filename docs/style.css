@@ -9,6 +9,10 @@ div.indent1{
     margin-left:1em;
 }
 
+p.indent1 {
+    padding-left: 1em;
+}
+
 .btn-raised {
     display: inline-block;
     background-color: rgba(34,110,147,1); /*背景色*/
