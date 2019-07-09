@@ -4,43 +4,56 @@
 "en":"Terms Of Use"
 },
 "first":{
-"ja":"この規約は、お客様が、チューブゲームズ（以下「当社」）が提供する「食べ物プレイヤー」（以下「本サービス」）をご利用頂く際の取扱いにつき定めるものです。本規約に同意した上で本サービスをご利用ください。"
+"ja":"この規約は、お客様が、チューブゲームズ（以下「当社」）が提供する「食べ物プレイヤー」（以下「本サービス」）をご利用頂く際の取扱いにつき定めるものです。<br/>本規約に同意した上で本サービスをご利用ください。",
+"en":" These terms and conditions govern the handling of the \"Food Player\" (hereinafter referred to as the \"Service\") provided by TubezGames (hereinafter referred to as the \"Company\"). <br/>Please use the Service after agreeing to these Terms of Use."
 },
 "rule1":{
-"ja":"第１条（定義）"
+"ja":"第１条（定義）",
+"en":"Article 1 (Definition)"
 },
 "rule1.first":{
-"ja":"本規約上で使用する用語の定義は、次に掲げるとおりとします。"
+"ja":"本規約上で使用する用語の定義は、次に掲げるとおりとします。",
+"en":"The definition sought in these Terms of Use is as follows:"
 },
 "rule1.td1":{
-"ja":"<td>本サービス<td>当社が運営するサービス及び関連するサービス"
+"ja":"<td>本サービス<td>当社が運営するサービス及び関連するサービス",
+"en":"<td> Services <td> services operated by the Company and related services"
 },
 "rule1.td2":{
-"ja":"<td>本アプリケーション<td>本サービスのコンテンツが掲載されたアプリケーション（アプリ）"
+"ja":"<td>本アプリケーション<td>本サービスのコンテンツが掲載されたアプリケーション（アプリ）",
+"en":"<td> application<td> application with the contents of the Service (app)"
 },
 "rule1.td3":{
-"ja":"<td>本コンテンツ<td>本サービス上で提供される文字、音、静止画、動画、ソフトウェアプログラム、コード等の総称（投稿情報を含む）"
+"ja":"<td>本コンテンツ<td>本サービス上で提供される文字、音、静止画、動画、ソフトウェアプログラム、コード等の総称（投稿情報を含む）",
+"en":"<td>This Content<td>Any word of character, sound, still image, video, software program, code, etc. provided on the Service (including posting information)"
 },
 "rule1.td4":{
-"ja":"<td>利用者<td>本サービスを利用する全ての方"
+"ja":"<td>利用者<td>本サービスを利用する全ての方",
+"en":"<td>User<td>All people who use the Service"
 },
 "rule1.td5":{
-"ja":"<td>ＩＤ<td>本サービスの利用のために登録利用者が固有に持つ文字列"
+"ja":"<td>ＩＤ<td>本サービスの利用のために登録利用者が固有に持つ文字列",
+"en":"<td>ID<td>A string unique to registered users for use of the Service"
 },
 "rule1.td6":{
-"ja":"<td>パスワード<td>ＩＤに対応して登録利用者が固有に設定する暗号"
+"ja":"<td>パスワード<td>ＩＤに対応して登録利用者が固有に設定する暗号",
+"en":"<td>Password<td>A cipher that is uniquely set by the registered user in response to the ID"
 },
 "rule1.td7":{
-"ja":"<td>個人情報<td>住所、氏名、職業、電話番号等個人を特定することのできる情報の総称"
+"ja":"<td>個人情報<td>住所、氏名、職業、電話番号等個人を特定することのできる情報の総称",
+"en":"<td>Personal information<td>any information that can identify an individual, such as an address, name, occupation, or telephone number"
 },
 "rule1.td8":{
-"ja":"<td>登録情報<td>登録利用者が本アプリケーションにて登録した情報の総称（投稿情報は除く）"
+"ja":"<td>登録情報<td>登録利用者が本アプリケーションにて登録した情報の総称（投稿情報は除く）",
+"en":"<td>Registration information<td>Any term of information registered by registered users in this application (excluding posting information)"
 },
 "rule1.td9":{
-"ja":"<td>知的財産<td>発明、考案、植物の新品種、意匠、著作物その他の人間の創造的活動により生み出されるもの（発見または解明がされた自然の法則または現象であって、産業上の利用可能性があるものを含む）、商標、商号その他事業活動に用いられる商品または役務を表示するもの及び営業秘密その他の事業活動に有用な技術上または営業上の情報"
+"ja":"<td>知的財産<td>発明、考案、植物の新品種、意匠、著作物その他の人間の創造的活動により生み出されるもの（発見または解明がされた自然の法則または現象であって、産業上の利用可能性があるものを含む）、商標、商号その他事業活動に用いられる商品または役務を表示するもの及び営業秘密その他の事業活動に有用な技術上または営業上の情報",
+"en":"<td>Intellectual Property<td>inventions, inventions, new varieties of plants, designs, works, or other things that are produced by the creative activities of human beings (including those discovered or elucidated by the laws or phenomena of nature that may be used for industry), trademarks, Information on trade names and other products or duties used in business activities and technical or business information useful for trade secrets and other business activities"
 },
 "rule1.td10":{
-"ja":"<td>知的財産権<td>特許権、実用新案権、育成者権、意匠権、著作権、商標権その他の知的財産に関して法令により定められた権利または法律上保護される利益に係る権利"
+"ja":"<td>知的財産権<td>特許権、実用新案権、育成者権、意匠権、著作権、商標権その他の知的財産に関して法令により定められた権利または法律上保護される利益に係る権利",
+"en":"<td>Intellectual Property Rights<td>Rights pertaining to patent rights, utility model rights, breeder's rights, design rights, copyrights, trademark rights, and other intellectual property rights stipulated by law or legally protected interests"
 },
 "rule2":{
 "ja":"第２条（本規約への同意）"
