@@ -12,19 +12,17 @@
     "en": "Basic policy"
   },
   "basic-policy-text": {
-    "ja": "当社は、個人情報の重要性を認識し、個人情報を保護することが社会的責務であると考え、個人情報に関する法令を遵守し、当サイトで取扱う個人情報の取得、利用、管理を適正に行います。<br />当サイトで収集した情報は、利用目的の範囲内で適切に取り扱います。",
-    "en": "Recognizing the importance of personal information, we believe that it is a social responsibility to protect personal information,                and we comply with laws and regulations concerning personal information and properly acquire, use, and manage personal information handled by this site.The information collected on this site is handled appropriately within the scope of the purpose of use."
+    "ja": "当社は、個人情報の重要性を認識し、個人情報を保護することが社会的責務であると考え、個人情報に関する法令を遵守し、当サイトで取扱う個人情報の取得、利用、管理を適正に行います。<br/>当サイトで収集した情報は、利用目的の範囲内で適切に取り扱います。",
+    "en": "Recognizing the importance of personal information, we believe that it is a social responsibility to protect personal information, and we comply with laws and regulations concerning personal information and properly acquire, use, and manage personal information handled by this site.<br/>The information collected on this site is handled appropriately within the scope of the purpose of use."
   },
-
   "how-to-collect-personal-information": {
     "ja": "個人情報の収集方法",
     "en": "How to collect personal information"
   },
   "how-to-collect-personal-information-text": {
     "ja": "当社は，ユーザーが利用登録をする際に氏名，生年月日，住所，電話番号，メールアドレスなどの個人情報をお尋ねすることがあります。<br />また，ユーザーと提携先などとの間でなされたユーザーの個人情報を含む取引記録や決済に関する情報を,当社の提携先（情報提供元，広告主，広告配信先などを含みます。以下，｢提携先｣といいます。）などから収集することがあります。",
-    "en": "We may ask you for personal information such as your name, date of birth, address, telephone number, and email address when you register for use. In addition, we may collect information about transaction records and settlements, including the personal information of users who have been made between the user and the partners, from our partners (Including sources of information, advertisers, and advertising destinations. The following are called \"partners\") ."
+    "en": "We may ask you for personal information such as your name, date of birth, address, telephone number, and email address when you register for use. <br/>In addition, we may collect information about transaction records and settlements, including the personal information of users who have been made between the user and the partners, from our partners (Including sources of information, advertisers, and advertising destinations. The following are called \"partners\") ."
   },
-
   "purpose-of-use-of-personal-information": {
     "ja": "個人情報の利用目的",
     "en": "Purpose of use of personal information"
@@ -33,8 +31,6 @@
     "ja": "当社が個人情報を収集・利用する目的は，以下のとおりです。",
     "en": "The purpose of our company's collection and use of personal information is as follows."
   },
-
-
   "purpose-of-use-of-personal-information-ads": {
     "ja": "広告の表示",
     "en": "Advertising"
@@ -47,7 +43,6 @@
     "ja": "Google 広告に関するポリシー： https://policies.google.com/technologies/ads",
     "en": "Google Ads Policy: https://policies.google.com/technologies/ads"
   },
-
   "data-analysis-to-improve-services": {
     "ja": "サービス向上のためのデータ解析",
     "en": "Data analysis to improve services"
@@ -64,7 +59,6 @@
     "ja": "広告を見たこと",
     "en": "Having seen the ad."
   },
-
   "data-analysis-to-improve-services.how-to-optout": {
     "ja": "オプトアウトの方法",
     "en": "How to opt out"
@@ -73,7 +67,6 @@
     "ja": "アプリの利用状況データを送信する機能を オプトアウト(停止すること) する場合は、<br />アプリ内のアプリ情報画面で、「利用状況データを送信する」のチェックを無効にしてください<br /><br />",
     "en": "If you want to opt out the ability to send app usage data,<br/>Please disable the \"To send usage data\" check in the app information screen in the app"
   },
-
   "data-analysis-to-improve-services.about-firebase": {
     "ja": "Firebase 向け Google アナリティクスのポリシーについて",
     "en": "About Google Analytics policies for Firebase"
@@ -86,7 +79,6 @@
     "ja": "Google プライバシーポリシー： https://policies.google.com/privacy",
     "en": "Google Privacy Policy: https://policies.google.com/privacy"
   },
-
   "ar-core": {
     "ja": "ARCoreの使用",
     "en": "ARCore"
@@ -99,7 +91,6 @@
     "ja": "Google プライバシーポリシー： https://policies.google.com/privacy",
     "en": "Google Privacy Policy: https://policies.google.com/privacy"
   },
-
   "replying-to-contact-us": {
     "ja": "問い合わせへの返信",
     "en": "Replying to contact us"
@@ -108,7 +99,6 @@
     "ja": "お問い合わせによって取得したEメールアドレスは、お問い合わせへの返信にのみ使われます。",
     "en": "The email address obtained by contacting us is only used to reply to your inquiry."
   },
-
   "provision-ofpersonal-information-to-third-parties": {
     "ja": "個人情報の第三者への提供",
     "en": "Provision of personal information to third parties"
@@ -117,7 +107,6 @@
     "ja": "当サービスは、訪問者からご提供いただいた個人情報を、訪問者本人の同意を得ることなく第三者に提供することはありません。<br />また、今後第三者提供を行うことになった場合には、提供する情報と提供目的などを提示し、訪問者から同意を得た場合のみ第三者提供を行います。",
     "en": "This service does not provide personal information provided by visitors to third parties without obtaining the consent of the visitor. In addition, in the event that a third party is to be offered, the information provided and the purpose of the offer will be presented and provided to third parties only when the visitor has obtained consent."
   },
-
   "changes-to-this-privacy-policy": {
     "ja": "プライバシーポリシーの変更",
     "en": "Changes to this privacy policy"
@@ -130,19 +119,12 @@
     "ja": "当社が別途定める場合を除いて，変更後のプライバシーポリシーは，本ウェブサイトに掲載したときから効力を生じるものとします。",
     "en": "Unless otherwise stipulated by the company, the changed privacy policy shall be effective from the time it is posted on this website."
   },
-
   "contact": {
     "ja": "お問い合わせ",
     "en": "Contact"
   },
-
   "versioning": {
     "ja": "2019/06/13 策定<br />2019/07/06 改訂",
     "en": "Formulated: 2019/06/13<br />Last updated: 2019/07/08"
-  },
-
-  "": {
-    "ja": "",
-    "en": ""
   }
 }
