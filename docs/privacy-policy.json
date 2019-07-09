@@ -1,130 +1,130 @@
 {
-  "title": {
-    "ja": "プライバシーポリシー",
-    "en": "Privacy policy"
-  },
-  "first": {
-    "ja": "チューブゲームズ（以下，「当社」といいます。）は，本アプリケーション上で提供するサービス（以下,「本サービス」といいます。）における，ユーザーの個人情報の取扱いについて，以下のとおりプライバシーポリシー（以下，「本ポリシー」といいます。）を定めます。 ",
-    "en": "The Tubezgames (hereinafter referred to as \"the Company\") Services provided on this application (hereinafter referred to as \"the service\") The Privacy Policy (hereinafter referred to as \"This policy\") describes the handling of user's personal information."
-  },
-  "basic-policy-subtitle": {
-    "ja": "基本方針",
-    "en": "Basic policy"
-  },
-  "basic-policy-text": {
-    "ja": "当社は、個人情報の重要性を認識し、個人情報を保護することが社会的責務であると考え、個人情報に関する法令を遵守し、当サイトで取扱う個人情報の取得、利用、管理を適正に行います。<br/>当サイトで収集した情報は、利用目的の範囲内で適切に取り扱います。",
-    "en": "Recognizing the importance of personal information, we believe that it is a social responsibility to protect personal information, and we comply with laws and regulations concerning personal information and properly acquire, use, and manage personal information handled by this site.<br/>The information collected on this site is handled appropriately within the scope of the purpose of use."
-  },
-  "how-to-collect-personal-information": {
-    "ja": "個人情報の収集方法",
-    "en": "How to collect personal information"
-  },
-  "how-to-collect-personal-information-text": {
-    "ja": "当社は，ユーザーが利用登録をする際に氏名，生年月日，住所，電話番号，メールアドレスなどの個人情報をお尋ねすることがあります。<br />また，ユーザーと提携先などとの間でなされたユーザーの個人情報を含む取引記録や決済に関する情報を,当社の提携先（情報提供元，広告主，広告配信先などを含みます。以下，｢提携先｣といいます。）などから収集することがあります。",
-    "en": "We may ask you for personal information such as your name, date of birth, address, telephone number, and email address when you register for use. <br/>In addition, we may collect information about transaction records and settlements, including the personal information of users who have been made between the user and the partners, from our partners (Including sources of information, advertisers, and advertising destinations. The following are called \"partners\") ."
-  },
-  "purpose-of-use-of-personal-information": {
-    "ja": "個人情報の利用目的",
-    "en": "Purpose of use of personal information"
-  },
-  "purpose-of-use-of-personal-information.first": {
-    "ja": "当社が個人情報を収集・利用する目的は，以下のとおりです。",
-    "en": "The purpose of our company's collection and use of personal information is as follows."
-  },
-  "purpose-of-use-of-personal-information-ads": {
-    "ja": "広告の表示",
-    "en": "Advertising"
-  },
-  "purpose-of-use-of-personal-information-ads.text": {
-    "ja": "当サービスは、第三者配信の広告サービス「Google AdMob（Google Inc.）」を利用しています。<br /><br />Googleなどの第三者広告配信事業者は、本サービス利用者の興味に応じた広告を表示するために、Cookie（当サイトの訪問者が当サイトや他のサイトにアクセスした際の情報など）を使用することがあります。取得する情報、利用目的、第三者への提供等につきましては、以下の広告配信事業者のアプリケーション・プライバシーポリシーのリンクよりご確認ください。<br /><br />",
-    "en": "This service uses Google AdMob (Google Inc.), a third-party advertising service. Third-party advertising providers, such as Google, may use cookies (such as information when visitors to our site or other sites visit our site) to display advertisements tailored to the interests of the service user. For information on the acquisition, purpose of use, and provision to third parties, please refer to the link of the application Privacy policy of the following advertising provider."
-  },
-  "purpose-of-use-of-personal-information-ads.link": {
-    "ja": "Google 広告に関するポリシー： https://policies.google.com/technologies/ads",
-    "en": "Google Ads Policy: https://policies.google.com/technologies/ads"
-  },
-  "data-analysis-to-improve-services": {
-    "ja": "サービス向上のためのデータ解析",
-    "en": "Data analysis to improve services"
-  },
-  "data-analysis-to-improve-services.text": {
-    "ja": "当サービスは、第三者配信のデータ解析サービス「Firebase 向け Google アナリティクス（Google Inc.）」を利用しています。<br /><br />収集するデータは以下の通りです。<br />",
-    "en": "This service uses google analytics for Firebase, a third-party data analysis service.<br/>The data we collect is as follows.<br />"
-  },
-  "data-analysis-to-improve-services.list.1": {
-    "ja": "アプリの機能を使った回数",
-    "en": "Number of times you've used the app's features"
-  },
-  "data-analysis-to-improve-services.list.2": {
-    "ja": "広告を見たこと",
-    "en": "Having seen the ad."
-  },
-  "data-analysis-to-improve-services.how-to-optout": {
-    "ja": "オプトアウトの方法",
-    "en": "How to opt out"
-  },
-  "data-analysis-to-improve-services.how-to-optout.text": {
-    "ja": "アプリの利用状況データを送信する機能を オプトアウト(停止すること) する場合は、<br />アプリ内のアプリ情報画面で、「利用状況データを送信する」のチェックを無効にしてください<br /><br />",
-    "en": "If you want to opt out the ability to send app usage data,<br/>Please disable the \"To send usage data\" check in the app information screen in the app"
-  },
-  "data-analysis-to-improve-services.about-firebase": {
-    "ja": "Firebase 向け Google アナリティクスのポリシーについて",
-    "en": "About Google Analytics policies for Firebase"
-  },
-  "data-analysis-to-improve-services.about-firebase.text": {
-    "ja": "「Firebase 向け Google アナリティクス」が収集する情報、利用目的、第三者への提供等につきましては、以下のポリシーのリンクよりご確認ください。<br /><br />",
-    "en": "Please refer to the following policy links for information collected by Google Analytics for Firebase, purpose of use, and provision to third parties."
-  },
-  "data-analysis-to-improve-services.about-firebase.link": {
-    "ja": "Google プライバシーポリシー： https://policies.google.com/privacy",
-    "en": "Google Privacy Policy: https://policies.google.com/privacy"
-  },
-  "ar-core": {
-    "ja": "ARCoreの使用",
-    "en": "ARCore"
-  },
-  "ar-core.text": {
-    "ja": "当サービスは、AR機能を使用できるようにする「ARCore（Google Inc.）」を利用しています。<br />",
-    "en": "This service uses ARCore（Google Inc.）, Make AR functions available."
-  },
-  "ar-core.link": {
-    "ja": "Google プライバシーポリシー： https://policies.google.com/privacy",
-    "en": "Google Privacy Policy: https://policies.google.com/privacy"
-  },
-  "replying-to-contact-us": {
-    "ja": "問い合わせへの返信",
-    "en": "Replying to contact us"
-  },
-  "replying-to-contact-us.text": {
-    "ja": "お問い合わせによって取得したEメールアドレスは、お問い合わせへの返信にのみ使われます。",
-    "en": "The email address obtained by contacting us is only used to reply to your inquiry."
-  },
-  "provision-ofpersonal-information-to-third-parties": {
-    "ja": "個人情報の第三者への提供",
-    "en": "Provision of personal information to third parties"
-  },
-  "provision-ofpersonal-information-to-third-parties.text": {
-    "ja": "当サービスは、訪問者からご提供いただいた個人情報を、訪問者本人の同意を得ることなく第三者に提供することはありません。<br />また、今後第三者提供を行うことになった場合には、提供する情報と提供目的などを提示し、訪問者から同意を得た場合のみ第三者提供を行います。",
-    "en": "This service does not provide personal information provided by visitors to third parties without obtaining the consent of the visitor. In addition, in the event that a third party is to be offered, the information provided and the purpose of the offer will be presented and provided to third parties only when the visitor has obtained consent."
-  },
-  "changes-to-this-privacy-policy": {
-    "ja": "プライバシーポリシーの変更",
-    "en": "Changes to this privacy policy"
-  },
-  "changes-to-this-privacy-policy.text.1": {
-    "ja": "本ポリシーの内容は，法令その他本ポリシーに別段の定めのある事項を除いて，ユーザーに通知することなく，変更することができるものとします。",
-    "en": "The contents of this policy shall be subject to change without notice to the user, except in laws and ordinances and other matters otherwise stipulated in this policy."
-  },
-  "changes-to-this-privacy-policy.text.2": {
-    "ja": "当社が別途定める場合を除いて，変更後のプライバシーポリシーは，本ウェブサイトに掲載したときから効力を生じるものとします。",
-    "en": "Unless otherwise stipulated by the company, the changed privacy policy shall be effective from the time it is posted on this website."
-  },
-  "contact": {
-    "ja": "お問い合わせ",
-    "en": "Contact"
-  },
-  "versioning": {
-    "ja": "2019/06/13 策定<br />2019/07/06 改訂",
-    "en": "Formulated: 2019/06/13<br />Last updated: 2019/07/08"
-  }
+"title":{
+"ja":"プライバシーポリシー",
+"en":"Privacy policy"
+},
+"first":{
+"ja":"チューブゲームズ（以下，「当社」といいます。）は，本アプリケーション上で提供するサービス（以下,「本サービス」といいます。）における，ユーザーの個人情報の取扱いについて，以下のとおりプライバシーポリシー（以下，「本ポリシー」といいます。）を定めます。 ",
+"en":"The Tubezgames (hereinafter referred to as \"the Company\") Services provided on this application (hereinafter referred to as \"the service\") The Privacy Policy (hereinafter referred to as \"This policy\") describes the handling of user's personal information."
+},
+"basic-policy-subtitle":{
+"ja":"基本方針",
+"en":"Basic policy"
+},
+"basic-policy-text":{
+"ja":"当社は、個人情報の重要性を認識し、個人情報を保護することが社会的責務であると考え、個人情報に関する法令を遵守し、当サイトで取扱う個人情報の取得、利用、管理を適正に行います。<br/>当サイトで収集した情報は、利用目的の範囲内で適切に取り扱います。",
+"en":"Recognizing the importance of personal information, we believe that it is a social responsibility to protect personal information, and we comply with laws and regulations concerning personal information and properly acquire, use, and manage personal information handled by this site.<br/>The information collected on this site is handled appropriately within the scope of the purpose of use."
+},
+"how-to-collect-personal-information":{
+"ja":"個人情報の収集方法",
+"en":"How to collect personal information"
+},
+"how-to-collect-personal-information-text":{
+"ja":"当社は，ユーザーが利用登録をする際に氏名，生年月日，住所，電話番号，メールアドレスなどの個人情報をお尋ねすることがあります。<br />また，ユーザーと提携先などとの間でなされたユーザーの個人情報を含む取引記録や決済に関する情報を,当社の提携先（情報提供元，広告主，広告配信先などを含みます。以下，｢提携先｣といいます。）などから収集することがあります。",
+"en":"We may ask you for personal information such as your name, date of birth, address, telephone number, and email address when you register for use. <br/>In addition, we may collect information about transaction records and settlements, including the personal information of users who have been made between the user and the partners, from our partners (Including sources of information, advertisers, and advertising destinations. The following are called \"partners\") ."
+},
+"purpose-of-use-of-personal-information":{
+"ja":"個人情報の利用目的",
+"en":"Purpose of use of personal information"
+},
+"purpose-of-use-of-personal-information.first":{
+"ja":"当社が個人情報を収集・利用する目的は，以下のとおりです。",
+"en":"The purpose of our company's collection and use of personal information is as follows."
+},
+"purpose-of-use-of-personal-information-ads":{
+"ja":"広告の表示",
+"en":"Advertising"
+},
+"purpose-of-use-of-personal-information-ads.text":{
+"ja":"当サービスは、第三者配信の広告サービス「Google AdMob（Google Inc.）」を利用しています。<br /><br />Googleなどの第三者広告配信事業者は、本サービス利用者の興味に応じた広告を表示するために、Cookie（当サイトの訪問者が当サイトや他のサイトにアクセスした際の情報など）を使用することがあります。取得する情報、利用目的、第三者への提供等につきましては、以下の広告配信事業者のアプリケーション・プライバシーポリシーのリンクよりご確認ください。<br /><br />",
+"en":"This service uses Google AdMob (Google Inc.), a third-party advertising service. Third-party advertising providers, such as Google, may use cookies (such as information when visitors to our site or other sites visit our site) to display advertisements tailored to the interests of the service user. For information on the acquisition, purpose of use, and provision to third parties, please refer to the link of the application Privacy policy of the following advertising provider."
+},
+"purpose-of-use-of-personal-information-ads.link":{
+"ja":"Google 広告に関するポリシー： https://policies.google.com/technologies/ads",
+"en":"Google Ads Policy: https://policies.google.com/technologies/ads"
+},
+"data-analysis-to-improve-services":{
+"ja":"サービス向上のためのデータ解析",
+"en":"Data analysis to improve services"
+},
+"data-analysis-to-improve-services.text":{
+"ja":"当サービスは、第三者配信のデータ解析サービス「Firebase 向け Google アナリティクス（Google Inc.）」を利用しています。<br /><br />収集するデータは以下の通りです。<br />",
+"en":"This service uses google analytics for Firebase, a third-party data analysis service.<br/>The data we collect is as follows.<br />"
+},
+"data-analysis-to-improve-services.list.1":{
+"ja":"アプリの機能を使った回数",
+"en":"Number of times you've used the app's features"
+},
+"data-analysis-to-improve-services.list.2":{
+"ja":"広告を見たこと",
+"en":"Having seen the ad."
+},
+"data-analysis-to-improve-services.how-to-optout":{
+"ja":"オプトアウトの方法",
+"en":"How to opt out"
+},
+"data-analysis-to-improve-services.how-to-optout.text":{
+"ja":"アプリの利用状況データを送信する機能を オプトアウト(停止すること) する場合は、<br />アプリ内のアプリ情報画面で、「利用状況データを送信する」のチェックを無効にしてください<br /><br />",
+"en":"If you want to opt out the ability to send app usage data,<br/>Please disable the \"To send usage data\" check in the app information screen in the app"
+},
+"data-analysis-to-improve-services.about-firebase":{
+"ja":"Firebase 向け Google アナリティクスのポリシーについて",
+"en":"About Google Analytics policies for Firebase"
+},
+"data-analysis-to-improve-services.about-firebase.text":{
+"ja":"「Firebase 向け Google アナリティクス」が収集する情報、利用目的、第三者への提供等につきましては、以下のポリシーのリンクよりご確認ください。<br /><br />",
+"en":"Please refer to the following policy links for information collected by Google Analytics for Firebase, purpose of use, and provision to third parties."
+},
+"data-analysis-to-improve-services.about-firebase.link":{
+"ja":"Google プライバシーポリシー： https://policies.google.com/privacy",
+"en":"Google Privacy Policy: https://policies.google.com/privacy"
+},
+"ar-core":{
+"ja":"ARCoreの使用",
+"en":"ARCore"
+},
+"ar-core.text":{
+"ja":"当サービスは、AR機能を使用できるようにする「ARCore（Google Inc.）」を利用しています。<br />",
+"en":"This service uses ARCore（Google Inc.）, Make AR functions available."
+},
+"ar-core.link":{
+"ja":"Google プライバシーポリシー： https://policies.google.com/privacy",
+"en":"Google Privacy Policy: https://policies.google.com/privacy"
+},
+"replying-to-contact-us":{
+"ja":"問い合わせへの返信",
+"en":"Replying to contact us"
+},
+"replying-to-contact-us.text":{
+"ja":"お問い合わせによって取得したEメールアドレスは、お問い合わせへの返信にのみ使われます。",
+"en":"The email address obtained by contacting us is only used to reply to your inquiry."
+},
+"provision-ofpersonal-information-to-third-parties":{
+"ja":"個人情報の第三者への提供",
+"en":"Provision of personal information to third parties"
+},
+"provision-ofpersonal-information-to-third-parties.text":{
+"ja":"当サービスは、訪問者からご提供いただいた個人情報を、訪問者本人の同意を得ることなく第三者に提供することはありません。<br />また、今後第三者提供を行うことになった場合には、提供する情報と提供目的などを提示し、訪問者から同意を得た場合のみ第三者提供を行います。",
+"en":"This service does not provide personal information provided by visitors to third parties without obtaining the consent of the visitor. In addition, in the event that a third party is to be offered, the information provided and the purpose of the offer will be presented and provided to third parties only when the visitor has obtained consent."
+},
+"changes-to-this-privacy-policy":{
+"ja":"プライバシーポリシーの変更",
+"en":"Changes to this privacy policy"
+},
+"changes-to-this-privacy-policy.text.1":{
+"ja":"本ポリシーの内容は，法令その他本ポリシーに別段の定めのある事項を除いて，ユーザーに通知することなく，変更することができるものとします。",
+"en":"The contents of this policy shall be subject to change without notice to the user, except in laws and ordinances and other matters otherwise stipulated in this policy."
+},
+"changes-to-this-privacy-policy.text.2":{
+"ja":"当社が別途定める場合を除いて，変更後のプライバシーポリシーは，本ウェブサイトに掲載したときから効力を生じるものとします。",
+"en":"Unless otherwise stipulated by the company, the changed privacy policy shall be effective from the time it is posted on this website."
+},
+"contact":{
+"ja":"お問い合わせ",
+"en":"Contact"
+},
+"versioning":{
+"ja":"2019/07/09 策定<br/>2019/07/09 改訂",
+"en":"Formulated: 2019/07/09<br/>Last updated: 2019/07/09"
+}
 }
