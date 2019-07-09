@@ -9,22 +9,37 @@
     <title>食べ物プレイヤー</title>
 </head>
 <body>
+    <header>
+        <div align="right">
+            <a href="https://takaooooooo7.github.io/food-player/en/credit" class="btn-raised">English</a>
+        </div>
+    </header>
+
     <main>
-        <div align="center"><h2>クレジット</h2></div>
+        <div align="center"><h2 glot-model="title"></h2></div>
 
         <div align="left">
-            <h2>プログラミング</h2>
-            チューブゲームズ
+            <h2 glot-model="programming"></h2>
+            <p glot-model="programming.1"></p>
 
-            <h2>3DCG</h2>
-            チューブゲームズ
+            <h2 glot-model="3dcg"></h2>
+            <p glot-model="3dcg.1"></p>
 
-            <h2>UI</h2>
-            チューブゲームズ
+            <h2 glot-model="ui">UI</h2>
+            <p glot-model="ui.1"></p>
 
-            <h2>使用アセット</h2>
-            400 Noise Texture Mega Pack / Darchall
+            <h2 glot-model="asset"></h2>
+            <p glot-model="asset.1"></p>
         </div>
     </main>
+
+    <script src="https://unpkg.com/glottologist"></script>
+    <script>
+      const glot = new Glottologist();
+
+      //JSONファイルの読み込み
+      glot.import("https://takaooooooo7.github.io/food-player/credit.json").then(() => { glot.render('ja');      })
+
+    </script>
 </body>
 </html>
